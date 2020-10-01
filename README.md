@@ -19,6 +19,7 @@ This project is Web Site about Login with animation.
 * HTML
 * CSS
 * JS
+* Visual studio Code
 
 ## Team:
 This project was made by:
